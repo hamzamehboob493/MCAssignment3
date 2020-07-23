@@ -1,6 +1,0 @@
-Bhai mene assignment Android Studio k version 3.4 pe bnaai hai with gradle version 4.3. API level 25 hai android 5.0.1 waala.
-Android app hai AndroidX nhii hai NDK version bhi puraana waala hai. Jb JVM bntaa hai tou us waqt vesion compatibility buhat matter kartii hai.
-Ab mere paas assignment ok hai sirf mene aik alert builder nhii lgaaya jo k download ko show kare. Yeh waala kaam mene external 
-browser se e handle karwaaya ayy.
-Tou agar sir k paas assignment kissi version compatibility ki wajaa se naa chalii tou me zumedaar nhii hu. Mujhe naa kehnaa.
-Shukran.
